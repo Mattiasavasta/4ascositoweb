@@ -18,6 +18,14 @@ nav a {
 	color: white;
 	margin-right: 20 px;
 }
+pulsante {
+	display: inline-block;
+	background-color: #174a7e;
+	color: white;
+	padding: 12 px 20 px;
+	border-radius: 8 px;
+	text-decoration: none;
+
 nav a:hover {
 	color: light sky blue;
 }
