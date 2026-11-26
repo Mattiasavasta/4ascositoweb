@@ -18,6 +18,10 @@ nav a {
 	color: white;
 	margin-right: 20 px;
 }
+nav a:hover {
+	color: light sky blue;
+}
+
 .prodotto {
 	background-color: light blue;
 	padding: 20 px;
