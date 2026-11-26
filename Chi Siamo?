@@ -11,3 +11,9 @@ Telefono Sede / Amministrazione: +39 02 5550 1234 (Lun - Ven, 9:00 - 18:00)
 Numero Verde Assistenza Clienti: 800 000 123 (Lun - Sab, 9:00 - 19:00)
 
 WhatsApp Customer Care: +39 333 010 8700 </p>
+<nav>
+    <a href="index.html">Home</a>
+    <a href="prodotti.html">Prodotti</a>
+	<a href="Chi Siamo?"> Chi Siamo?</a>
+	<a href="Pagina Contatti"> Pagina Contatti</a>
+	</nav>
