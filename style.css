@@ -18,3 +18,21 @@ nav a {
 	color: white;
 	margin-right: 20 px;
 }
+.prodotto {
+	background-color: light blue;
+	padding: 20 px;
+	margin: 20 px 0;
+	border: 1 px solid #dddddd;
+	border-radius: 10 px;
+}
+.prodotto img {
+	max-width: 200 px;
+	height: auto;
+}
+body {
+	max-width: 1100 px;
+	margin: 10 auto;
+	padding: 20 px;
+}
+
+
